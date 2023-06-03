@@ -47,6 +47,7 @@ Some documentation that may be useful:
 - [`pkgdown` Documentation](https://pkgdown.r-lib.org/index.html).
 - [Information on `usethis::use_pkgdown`](https://usethis.r-lib.org/reference/use_pkgdown.html).
 - [Managing GitHub Credentials](https://usethis.r-lib.org/articles/git-credentials.html).
+- [Managing GitHub Personal Access Tokens](https://usethis.r-lib.org/reference/github-token.html).
 
 
 
